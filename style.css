@@ -1,0 +1,28 @@
+#body{
+   background-color: black;
+}
+
+#header{
+   color: white;
+   position: absolute;
+   top: 0%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+}
+
+#form{
+   position: absolute;
+   top: 10%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   text-align: center;
+}
+
+img {
+   display: inline-block;
+   margin: 20px;
+   padding: 10px;
+   background-color: white;
+   border-radius: 5px;
+ }
